@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "sunrise-sunset": {
+      "type": "http",
+      "url": "https://api.sunrise-sunset.org/mcp"
+    }
+  }
+}
