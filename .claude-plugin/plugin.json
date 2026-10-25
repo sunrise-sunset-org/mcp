@@ -1,0 +1,13 @@
+{
+  "name": "sunrise-sunset",
+  "description": "Answers sun and moon questions for any place and date: when it gets light and dark, the best light for photos, how long the days are, and when the moon rises. Free, no API key.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sunrise-Sunset.org",
+    "url": "https://sunrise-sunset.org"
+  },
+  "homepage": "https://sunrise-sunset.org/mcp",
+  "repository": "https://github.com/sunrise-sunset-org/mcp",
+  "license": "MIT",
+  "keywords": ["sunrise", "sunset", "twilight", "golden hour", "moon phase", "daylight"]
+}
