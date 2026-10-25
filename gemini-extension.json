@@ -1,0 +1,10 @@
+{
+  "name": "sunrise-sunset",
+  "version": "1.0.0",
+  "description": "Sun and moon times as structured data in your terminal: one day or up to 366 days per call, ISO 8601 in the place's own timezone. Free, no API key.",
+  "mcpServers": {
+    "sunrise-sunset": {
+      "httpUrl": "https://api.sunrise-sunset.org/mcp"
+    }
+  }
+}

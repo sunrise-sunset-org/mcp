@@ -1,6 +1,6 @@
 {
   "name": "sunrise-sunset",
-  "description": "Sunrise, sunset, twilight, golden hour, blue hour and moon times for any place on Earth and any date, from Sunrise-Sunset.org. Free remote MCP server, no API key.",
+  "description": "Reference sun and moon times while you code: check your app's output, build test fixtures for polar night or DST changes, or prototype a daylight feature. Free, no API key.",
   "version": "1.0.0",
   "author": {
     "name": "Sunrise-Sunset.org",
